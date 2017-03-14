@@ -9,10 +9,10 @@ A parallel pipeline is a workflow, which consists of a series of connected proce
 You will find PaPy useful if you need to design and deploy a scalable data processing workflow that depends on Python libraries or external tools. PaPy makes it reasonably easy to convert existing code bases into proper workflows.
 
 * project page:
-** http://mcieslik-mctp.github.io/papy
+	http://mcieslik-mctp.github.io/papy
 
 * repository lives at:
-** https://github.com/mcieslik-mctp/papy.git
+	https://github.com/mcieslik-mctp/papy.git
 
 * most recent documentation sources:
 ** http://mcieslik-mctp.github.io/papy
