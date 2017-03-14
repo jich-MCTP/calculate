@@ -7,15 +7,15 @@ permalink:        pretty
 relative_permalinks: false
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            PaPy
+tagline:          'Parallel Pipelines in Python'
+description:      'A parallel pipeline is a workflow, which consists of a series of connected processing steps to model computational processes and automate their execution in parallel on a single multi-core computer or an ad-hoc grid.'
+url:              https://jich-mctp.github.io/calculate/
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'mcieslik'
+  url:            https://github.com/mcieslik-mctp/papy
 
 paginate:         5
 
@@ -23,4 +23,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+repo:           https://github.com/mcieslik-mctp/papy
