@@ -12,7 +12,7 @@ title:            PaPy
 tagline:          'Parallel Pipelines in Python'
 description:      'A parallel pipeline is a workflow, which consists of a series of connected processing steps to model computational processes and automate their execution in parallel on a single multi-core computer or an ad-hoc grid.'
 url:              https://jich-mctp.github.io/calculate/
-baseurl:          /
+baseurl:          /calculate
 
 author:
   name:           'mcieslik'
