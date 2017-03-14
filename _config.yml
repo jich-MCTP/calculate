@@ -21,7 +21,7 @@ author:
 paginate:         5
 
 # Custom vars
-version:          2.1.0
+version:          1.0.6
 
 githubzip:        https://github.com/mcieslik-mctp/papy/archive/master.zip
 
