@@ -1,5 +1,4 @@
 # **PaPy** - Parallel Pipelines in Python
-#######################################
 
 The ``papy`` package provides an implementation of the flow-based programming 
 paradigm in Python that enables the construction and deployment of distributed
@@ -15,4 +14,4 @@ iterable **tasks**. The **tasks** are **not** queued rather they are
 **interwoven** and share a pool or **worker** "processes" or "threads" and 
 a memory "buffer".
 
-Documentation can be found `here <https://github.com/jich-MCTP/calculate/blob/gh-pages/README.md/>`_
+Documentation can be found `here <https://github.com/jich-MCTP/calculate/blob/gh-pages/README.md/>`
